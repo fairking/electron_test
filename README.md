@@ -1,4 +1,4 @@
-# el_test
+# electron_test
 
 ## Project setup
 ```
@@ -7,18 +7,20 @@ npm install
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+npm run electron:serve
 ```
 
 ### Compiles and minifies for production
 ```
-npm run build
+npm run electron:build
 ```
 
-### Lints and fixes files
+### Windows distributive
 ```
-npm run lint
+npm run dist-windows
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Linux RedHat distributive
+```
+npm run dist-linux
+```
