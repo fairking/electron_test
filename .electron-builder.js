@@ -3,7 +3,7 @@
 * @see https://www.electron.build/configuration/configuration
 */
 module.exports = {
-    appId: "com.el_test.cmu",
+    appId: "com.electron_test.cmu",
     productName: "Electron Test CMU",
     copyright: "Copyright © year ${author}",
     win: {
